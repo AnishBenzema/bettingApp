@@ -18,7 +18,7 @@
                     <tr>
                        <th style="width:10px">#</th>
                        <th>Client Name</th>
-                       <th>Actions</th>
+                       <th>Actionss</th>
                     </tr>
                  </thead>
 
